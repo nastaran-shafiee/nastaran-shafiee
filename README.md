@@ -1,6 +1,6 @@
-<div background-Color="black">
+<div background-color="black">
 <p align="center">Hi 👋, I'm Nastaran Shafie
-/p>
+</p>
 <p align="center">
 A passionate Front-End developer from Iran, tehran</p>
 
