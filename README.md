@@ -1,4 +1,4 @@
-<div background-color="black">
+<div style="background-color: #f0f0f0" >
 <p align="center">Hi 👋, I'm Nastaran Shafie
 </p>
 <hr>
