@@ -4,6 +4,11 @@
 <hr>
 <p align="center">
 A passionate Front-End developer from Iran, tehran</p>
+<div align="center">
+
+[<img src="https://user-images.githubusercontent.com/115412256/230774567-78b98a45-4da4-409f-8073-99f4a87b6c01.svg" alt="js" width="20" height="60" />](https://t.me/Nastaranshafiee)
+
+</div>
 <hr>
 
 <p align="center">
@@ -25,8 +30,5 @@ Languages and Tools</p>
 [<img src="https://user-images.githubusercontent.com/115412256/230773125-ff64b468-065e-4501-8375-3b5b4f95a15e.svg" alt="figma" width="40" height="40" />](https://www.figma.com/)
 [<img src="https://user-images.githubusercontent.com/115412256/230773228-653380ae-46a5-43cc-8fc6-a8d4c06f449e.png" alt="wordpress" width="40" height="40" />](https://wordpress.org/)
 [<img src="https://user-images.githubusercontent.com/115412256/230773323-2b3df11c-eaf4-42cb-abd7-35554ee4ab26.svg" alt="git" width="40" height="40" />](https://github.com/)</div>
-
-<p align="center">
-GitHub Stats Top Language</p>
 
 </div>
