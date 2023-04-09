@@ -1,9 +1,11 @@
 <div background-Color="black">
 <p align="center">Hi 👋, I'm Nastaran Shafie
+/p>
+<p align="center">
 A passionate Front-End developer from Iran, tehran</p>
 
-Languages and Tools
-
+<p align="center">
+Languages and Tools</p>
 [<img src="https://user-images.githubusercontent.com/115412256/230771578-776eae65-af60-4a80-8696-fde5b70fdb7c.svg" alt="js" width="40" height="40" />](https://javascript.info/)
 [<img src="https://user-images.githubusercontent.com/115412256/230772430-079b4ba2-031b-4b20-9077-fd60aae44580.svg" alt="html" width="40" height="40" />](https://www.w3schools.com/html/)
 [<img src="https://user-images.githubusercontent.com/115412256/230772472-cb83a261-18e6-40c2-ad69-ff8109073615.svg" alt="css" width="40" height="40" />](https://www.w3schools.com/css/)
@@ -19,6 +21,7 @@ Languages and Tools
 [<img src="https://user-images.githubusercontent.com/115412256/230773228-653380ae-46a5-43cc-8fc6-a8d4c06f449e.png" alt="wordpress" width="40" height="40" />](https://wordpress.org/)
 [<img src="https://user-images.githubusercontent.com/115412256/230773323-2b3df11c-eaf4-42cb-abd7-35554ee4ab26.svg" alt="git" width="40" height="40" />](https://github.com/)
 
-GitHub Stats Top Language
+<p align="center">
+GitHub Stats Top Language</p>
 
 </div>
