@@ -1,6 +1,6 @@
-<div backgroundColor="black">
-Hi 👋, I'm Nastaran Shafie
-A passionate Front-End developer from Iran, tehran
+<div background-Color="black">
+<p align="center">Hi 👋, I'm Nastaran Shafie
+A passionate Front-End developer from Iran, tehran</p>
 
 Languages and Tools
 
