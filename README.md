@@ -6,7 +6,7 @@
 A passionate Front-End developer from Iran, tehran</p>
 <div align="center">
 
-[<img src="https://user-images.githubusercontent.com/115412256/230774567-78b98a45-4da4-409f-8073-99f4a87b6c01.svg" alt="js" width="20" height="60" />](https://t.me/Nastaranshafiee)
+[<img src="https://user-images.githubusercontent.com/115412256/230774567-78b98a45-4da4-409f-8073-99f4a87b6c01.svg" alt="js" width="80" height="30" />](https://t.me/Nastaranshafiee)
 
 </div>
 <hr>
