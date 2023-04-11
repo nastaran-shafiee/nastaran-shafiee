@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0" >
-<p align="center">Hi 👋, I'm Nastaran Shafie
+<p align="center">Hi 👋, I'm Nastaran Shafiee
 </p>
 <hr>
 <p align="center">
